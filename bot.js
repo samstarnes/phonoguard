@@ -194,4 +194,4 @@ function rmsToDecibels(rms) {
 	return 20 * Math.log10(rms / REFERENCE);
 }
 
-client.login('MTEyNzY3NTAwMTQ1NDIxNTE5OQ.GTKXeg.vCbM6TTMoNuDmeFutEXIfqr-lfqnK_cgD3A0HM');
+client.login('replace_with_your_bot_token');
